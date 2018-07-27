@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">作业1</string>
+    <string name="MessageText">你好！ 我的名字是蒂芙尼。 欢迎来到我的申请！</string>
+    <string name="Button">这是一个按钮</string>
+</resources>

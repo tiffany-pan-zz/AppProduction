@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="Button">This is a button</string>
+    <string name="MessageText">Hello! My name is Tiffany. Welcome to my application!</string>
+</resources>

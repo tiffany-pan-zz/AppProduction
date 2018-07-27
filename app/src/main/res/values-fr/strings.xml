@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Affectation1</string>
+    <string name="MessageText">salut! Je m\'appelle Tiffany. Bienvenue dans mon application!</string>
+    <string name="Button">Ceci est un bouton</string>
+</resources>
